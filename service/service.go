@@ -17,8 +17,9 @@ func Service() {
 	}
 
 	if access == nil {
-
+		//do something
 	}
 
+	//uncomment the following code to compile the code in go1.6
 	//fmt.Println("")
 }
